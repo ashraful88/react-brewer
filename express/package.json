@@ -1,0 +1,14 @@
+{
+  "name": "react-brewer-express-server",
+  "version": "0.1.0",
+  "description": "express server",
+  "engines": {
+    "npm": ">=3"
+  },
+  "author": "no one",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "express": "4.16.4"
+  }
+}
