@@ -9,6 +9,7 @@ ENV NODE_ENV=production
 
 #RUN npm set registry https://registry.npmjs.org/
 RUN npm install
+RUN npm run build-production
 
 WORKDIR /usr/src/app/express
 RUN npm install
