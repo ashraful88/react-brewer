@@ -1,0 +1,2 @@
+export const OPEN_HOME_PAGE = 'OPEN_HOME_PAGE';
+export const SOMETHING_HOME_PAGE = 'SOMETHING_HOME_PAGE';
