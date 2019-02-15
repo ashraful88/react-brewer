@@ -2,7 +2,7 @@ import * as types from '../constants/actionTypes';
 import objectAssign from 'object-assign';
 import initialState from './initialState';
 
-export default function pageReducer(state = initialState.home, action) {
+export default function pageReducer(state = initialState.page, action) {
   let newState;
 
   switch (action.type) {
