@@ -1,11 +1,11 @@
 import { combineReducers } from 'redux';
 import homeReducer from './homeReducer';
-import aboutReducer from './aboutReducer';
+import pageReducer from './pageReducer';
 import commonReducer from './commonReducer';
 
 const rootReducer = combineReducers({
   homeReducer,
-  aboutReducer,
+  pageReducer,
   commonReducer,
 });
 
