@@ -4,7 +4,7 @@ export default {
     title:null,
     meta:null,
   },
-  about: {
+  page: {
     dateModified: null,
     title:null,
     meta:null,
