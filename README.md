@@ -1,2 +1,2 @@
 # react-brewer
-react redux brewer
+react redux boilarplate 
